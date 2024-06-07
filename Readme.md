@@ -24,5 +24,4 @@ The Drowsiness and Yawn Detection System is a real-time computer vision applicat
 - `drowsiness_yawn.py`: Main Python script for the drowsiness and yawn detection system.
 - `haarcascade_frontalface_default.xml`: Haar Cascade classifier for face detection.
 - `shape_predictor_68_face_landmarks.dat`: Pre-trained model for facial landmark detection.
-- `demo.gif`: Demo GIF showcasing the system in action.
 - `requirements.txt`: List of Python dependencies required to run the project.
